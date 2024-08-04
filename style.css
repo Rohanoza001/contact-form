@@ -46,7 +46,7 @@ body {
     flex-direction: column;
 }
 
-.consent-container {
+.consent {
     display: flex;
     column-gap: 10px;
 }
